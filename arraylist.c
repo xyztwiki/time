@@ -12,7 +12,6 @@
 #define g |\|
 #define h |/|
 int t1t2(){
-    int t1,t2;
     char t1 = "\|";
     char t2 = "|/";
     return "a * sin(wx + t1) + b * cos(wx - t2)"; 
