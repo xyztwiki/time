@@ -2,6 +2,7 @@
 #include "StraightPyramid.c"
 #include "t19.c"
 #include "TIME.c"
+#include "bit.c"
 #define a |=\
 #define b |=/
 #define c |=
