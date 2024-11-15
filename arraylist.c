@@ -1,6 +1,7 @@
 #include "DetPyramid.c"
 #include "StraightPyramid.c"
-#include "t19.c"
+#include "0triangle.c"
+#include "1triangle.c"
 #include "TIME.c"
 #include "bit.c"
 #define a |=\
