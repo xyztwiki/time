@@ -5,4 +5,4 @@ const q4 = 666666/55555;
 const q5 = 55555/4444;
 const q6 = 4444/333;
 const q7 = 333/22;
-const q8 = 22; 
+const q8 = 1/22; 
